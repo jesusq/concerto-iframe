@@ -1,11 +1,6 @@
-# Concerto 2 Remote Video Plugin
-This plugin provides support to play remotely hosted videos, like YouTube videos, in Concerto 2.
+# Concerto 2 iframe Plugin
+This plugin generalizes ```concerto_remote_video``` to allow showing any iframe for a specified time.
 
-1.  Add to your Gemfile: ```gem 'concerto_remote_video'```
-2.  ```bundle install```
-3.  ```./script/rails generate concerto_remote_video:install install```
 
-## Supported hosts:
-* YouTube
 
-Concerto 2 Remove Video is licensed under the Apache License, Version 2.0.
+Concerto 2 iframe is licensed under the Apache License, Version 2.0.
